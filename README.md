@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### <div align="center">I'm Christian, a front-end engineer learning at Nashville Software.</div>  
+### <div align="center">I'm Christian Black, a software engineer at Nashville Software.</div>  
   
 
 - 🔭 I’m currently working on [Common Meal](https://github.com/blackcl3/CommonMeal)  
